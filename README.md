@@ -1,10 +1,12 @@
-
 # OptiLogger
 
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.x-blue.svg)](https://www.unrealengine.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-orange.svg)](https://github.com/yourusername/OptiLogger/releases)
 
+
 OptiLogger is an Unreal Engine editor plugin for in-depth resource analysis in levels. It examines meshes, textures, materials, animations, audio, lighting, and post-process effects to help optimize performance and identify bottlenecks.
+
 
 ## Features
 
