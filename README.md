@@ -60,7 +60,7 @@ OptiLogger is an Unreal Engine editor plugin for in-depth resource analysis in l
 ## Screenshots
 
 ![Where is located]
-<img width="389" height="769" alt="image" src="https://github.com/user-attachments/assets/59fda0ef-4f9b-4d3d-ba44-68174d9beddc" />
+<img width="389" height="769" alt="image" src="https://github.com/user-attachments/assets/59fda0ef-4f9b-4d3d-ba44-68174d9beddc" /></br>
 *Here is where you can access the plugin.*
 
 ![Main Window]
