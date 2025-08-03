@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"OptiLogger": "UnrealEditor-OptiLogger.dll",
+		"OptiLoggerRuntime": "UnrealEditor-OptiLoggerRuntime.dll"
+	}
+}
