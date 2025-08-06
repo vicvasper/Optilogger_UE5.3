@@ -21,7 +21,7 @@ OptiLogger is an Unreal Engine editor plugin for in-depth resource analysis in l
 
 ## Requirements
 
-- Unreal Engine 5.3 onwards
+- Unreal Engine 5.x
 - Editor-only plugin; works in standalone editor and PIE (Play In Editor).
 - No additional dependencies beyond standard UE modules.
 
