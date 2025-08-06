@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "OptiLogger",
-	"Description": "Non-intrusive resource analysis and optimization plugin for Unreal Engine 5.3. Provides comprehensive analysis of static meshes, skeletal meshes, textures, materials, animations, audio, lighting, and post-process effects with JSON export functionality.",
+	"Description": "Non-intrusive resource analysis and optimization plugin for Unreal Engine 5.x. Provides comprehensive analysis of static meshes, skeletal meshes, textures, materials, animations, audio, lighting, and post-process effects with JSON export functionality.",
 	"Category": "Optimization",
 	"CreatedBy": "@vicvasper",
 	"CreatedByURL": "",
